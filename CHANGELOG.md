@@ -1,19 +1,18 @@
-## [1.3.0] - 2022-04-08
-### Updates
-- update to Angular 13
-- update all dependencies to match Angular 13 version
-- ng-bootstrap tab implementation changed
-- cosmetic changes due to change of components
+# CHANGELOG
 
-## [1.2.0] - 2021-01-04
-### Updates
-- update to Angular 11
-- update all dependencies to match Angular 11 version
+## [0.0.2] - 23-07-2022
 
-## [1.1.0] - 2020-03-09
-### Updates
-- update to Angular 9
-- update all dependencies to match Angular 9 version
+  ### Added
+  ### Changed
+  ### Deprecated
+  ### Fixed
+  ### Removed
 
-## [1.0.0] - 2019-03-29
-### Initial Release
+
+## [0.0.1] - 16-07-2022
+
+  ### Added
+  ### Changed
+  ### Deprecated
+  ### Fixed
+  ### Removed
