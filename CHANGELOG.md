@@ -12,7 +12,15 @@
 ## [0.0.1] - 16-07-2022
 
   ### Added
+
+  -
+
   ### Changed
+
+  - The Twitter icon on the navbar was changed to a Whatsapp icon
+  - The whatsapp icon now redirects to M&E's Whatsapp account
+  - The Download button on the navbar changed its content and icon, now it has an address book icon, it says 'Contacto' and redirects to 'Contacto' component
+
   ### Deprecated
   ### Fixed
   ### Removed
