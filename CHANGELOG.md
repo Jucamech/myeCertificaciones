@@ -13,7 +13,8 @@
 
   ### Added
 
-  -
+  - Added color palette on app.component.scss
+  - New component 'Quienes Somos'
 
   ### Changed
 
