@@ -1,5 +1,13 @@
 .quienes-somos-page{
     .section-profile-cover{
-        height: 400px !important;
+        height: 500px !important;
+        .shape{
+            img{
+                width: 100%;
+                height: 500px;
+                object-fit: cover;
+            }
+        }
     }
+
 }
