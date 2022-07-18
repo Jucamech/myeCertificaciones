@@ -40,7 +40,7 @@
     --danger: #f5365c;
     --light: #adb5bd;
     --dark: #212529;
-    --default: #172b4d;
+    --default: #2b4c5d;
     --white: #fff;
     --neutral: #fff;
     --darker: black;
@@ -14654,7 +14654,7 @@ textarea[resize=horizontal] {
 }
 
 .navbar-horizontal .navbar-brand img {
-    height: 30px
+    height: 50px
 }
 
 .navbar-horizontal .navbar-dark .navbar-brand {
