@@ -4,4 +4,21 @@
             height: 60px !important;
         }
     }
+
+    .navbar-collapse{
+        ul{
+            li{
+                a{
+                    color: #fff;
+                    transition: 0.3s;
+                }
+                a:hover{
+                    font-weight: bold;
+                }
+                .btn{
+                    color: #2b4c5d;
+                }
+            }
+        }
+    }
 }
